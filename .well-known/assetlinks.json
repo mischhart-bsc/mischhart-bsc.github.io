@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mischhartbsc.judotrainer",
+      "sha256_cert_fingerprints": ["CD:14:83:8E:A4:C2:2E:19:BB:A1:6B:90:32:E8:B6:EB:DF:29:9A:72:A7:E6:48:F1:E3:9E:25:1A:0A:8B:CC:07"]
+    }
+  }
+]
